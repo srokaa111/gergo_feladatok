@@ -1,0 +1,1634 @@
+Timestamp 1: Limiting Electric car charger to 50%. Current usage: 9318 W
+Timestamp 1: Limiting Jacuzzi to 50%. Current usage: 7818 W
+Timestamp 1: Limiting Pool water pump to 50%. Current usage: 7518 W
+Timestamp 1: Limiting Roomba charging port to 50%. Current usage: 7498 W
+Timestamp 1: Limiting Living room AC to 50%. Current usage: 6868 W
+Timestamp 1: Limiting PlayStation 5 to 50%. Current usage: 6763 W
+Timestamp 1: Limiting Living room TV to 50%. Current usage: 6663 W
+Timestamp 1: Limiting Garden Lights to 50%. Current usage: 6588 W
+Timestamp 1: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1: Turning off Electric car charger. Current usage: 4788 W
+Timestamp 1: Turning off Jacuzzi. Current usage: 3288 W
+Timestamp 1: Turning Garden Lights back to 100%. Current usage: 3363 W
+Timestamp 1: Turning Living room TV back to 100%. Current usage: 3463 W
+Timestamp 1: Turning PlayStation 5 back to 100%. Current usage: 3568 W
+Timestamp 1: Turning Roomba charging port back to 100%. Current usage: 3588 W
+Timestamp 1: Turning Pool water pump back to 100%. Current usage: 3888 W
+Timestamp 4: Turning on Washing machine. Current usage: 3859 W
+Timestamp 5: Limiting Pool water pump to 50%. Current usage: 3796 W
+Timestamp 6: Limiting Roomba charging port to 50%. Current usage: 4080 W
+Timestamp 6: Limiting PlayStation 5 to 50%. Current usage: 3975 W
+Timestamp 6: Turning Roomba charging port back to 100%. Current usage: 3995 W
+Timestamp 7: Turning PlayStation 5 back to 100%. Current usage: 3887 W
+Timestamp 10: Turning Pool water pump back to 100%. Current usage: 3802 W
+Timestamp 13: Limiting Pool water pump to 50%. Current usage: 3729 W
+Timestamp 14: Turning Pool water pump back to 100%. Current usage: 3682 W
+Timestamp 18: Turning on Bedroom AC at 50%. Current usage: 3791 W
+Timestamp 21: Limiting Pool water pump to 50%. Current usage: 3956 W
+Timestamp 24: Turning Pool water pump back to 100%. Current usage: 3928 W
+Timestamp 25: Limiting Pool water pump to 50%. Current usage: 3822 W
+Timestamp 26: Limiting Roomba charging port to 50%. Current usage: 4225 W
+Timestamp 26: Limiting PlayStation 5 to 50%. Current usage: 4120 W
+Timestamp 26: Limiting Living room TV to 50%. Current usage: 4020 W
+Timestamp 26: Limiting Garden Lights to 50%. Current usage: 3945 W
+Timestamp 26: Turning Roomba charging port back to 100%. Current usage: 3965 W
+Timestamp 27: Limiting Roomba charging port to 50%. Current usage: 4095 W
+Timestamp 27: Limiting Bedroom AC to 50%. Current usage: 3871 W
+Timestamp 27: Turning Garden Lights back to 100%. Current usage: 3946 W
+Timestamp 27: Turning Roomba charging port back to 100%. Current usage: 3966 W
+Timestamp 28: Limiting Roomba charging port to 50%. Current usage: 4010 W
+Timestamp 28: Limiting Bedroom AC to 50%. Current usage: 3912 W
+Timestamp 28: Turning Roomba charging port back to 100%. Current usage: 3932 W
+Timestamp 29: Turning Living room TV back to 100%. Current usage: 3915 W
+Timestamp 30: Turning PlayStation 5 back to 100%. Current usage: 3879 W
+Timestamp 31: Limiting Roomba charging port to 50%. Current usage: 4040 W
+Timestamp 31: Limiting PlayStation 5 to 50%. Current usage: 3935 W
+Timestamp 31: Turning Roomba charging port back to 100%. Current usage: 3955 W
+Timestamp 32: Turning PlayStation 5 back to 100%. Current usage: 3737 W
+Timestamp 33: Turning Pool water pump back to 100%. Current usage: 3726 W
+Timestamp 36: Turning on Microwave. Current usage: 3790 W
+Timestamp 37: Limiting Pool water pump to 50%. Current usage: 3904 W
+Timestamp 38: Limiting Roomba charging port to 50%. Current usage: 4382 W
+Timestamp 38: Limiting PlayStation 5 to 50%. Current usage: 4277 W
+Timestamp 38: Limiting Living room TV to 50%. Current usage: 4177 W
+Timestamp 38: Limiting Garden Lights to 50%. Current usage: 4102 W
+Timestamp 38: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 38: Turning off Pool water pump. Current usage: 3802 W
+Timestamp 38: Turning Garden Lights back to 100%. Current usage: 3877 W
+Timestamp 38: Turning Living room TV back to 100%. Current usage: 3977 W
+Timestamp 38: Turning Roomba charging port back to 100%. Current usage: 3997 W
+Timestamp 39: Turning PlayStation 5 back to 100%. Current usage: 3816 W
+Timestamp 41: Limiting Roomba charging port to 50%. Current usage: 4306 W
+Timestamp 41: Limiting PlayStation 5 to 50%. Current usage: 4201 W
+Timestamp 41: Limiting Living room TV to 50%. Current usage: 4101 W
+Timestamp 41: Limiting Garden Lights to 50%. Current usage: 4026 W
+Timestamp 41: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 41: Turning off Roomba charging port. Current usage: 4006 W
+Timestamp 41: Turning off Living room AC. Current usage: 4276 W
+Timestamp 41: Turning off Bedroom AC. Current usage: 3800 W
+Timestamp 41: Turning Garden Lights back to 100%. Current usage: 3875 W
+Timestamp 41: Turning Living room TV back to 100%. Current usage: 3975 W
+Timestamp 42: Limiting Living room TV to 50%. Current usage: 3975 W
+Timestamp 45: Turning on Roomba charging port at 50%. Current usage: 3987 W
+Timestamp 46: Limiting Garden Lights to 50%. Current usage: 3962 W
+Timestamp 46: Turning Roomba charging port back to 100%. Current usage: 3982 W
+Timestamp 47: Limiting Roomba charging port to 50%. Current usage: 4049 W
+Timestamp 47: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 47: Turning off PlayStation 5. Current usage: 3944 W
+Timestamp 47: Turning Roomba charging port back to 100%. Current usage: 3964 W
+Timestamp 48: Turning Garden Lights back to 100%. Current usage: 3966 W
+Timestamp 49: Limiting Roomba charging port to 50%. Current usage: 4024 W
+Timestamp 49: Limiting Garden Lights to 50%. Current usage: 3949 W
+Timestamp 49: Turning Roomba charging port back to 100%. Current usage: 3969 W
+Timestamp 50: Turning Garden Lights back to 100%. Current usage: 3964 W
+Timestamp 51: Limiting Roomba charging port to 50%. Current usage: 4031 W
+Timestamp 51: Limiting Garden Lights to 50%. Current usage: 3956 W
+Timestamp 51: Turning Roomba charging port back to 100%. Current usage: 3976 W
+Timestamp 53: Turning Garden Lights back to 100%. Current usage: 3999 W
+Timestamp 57: Turning Living room TV back to 100%. Current usage: 3966 W
+Timestamp 61: Turning on PlayStation 5 at 50%. Current usage: 3981 W
+Timestamp 64: Turning PlayStation 5 back to 100%. Current usage: 3972 W
+Timestamp 66: Limiting Roomba charging port to 50%. Current usage: 4047 W
+Timestamp 66: Limiting PlayStation 5 to 50%. Current usage: 3942 W
+Timestamp 66: Turning Roomba charging port back to 100%. Current usage: 3962 W
+Timestamp 67: Limiting Roomba charging port to 50%. Current usage: 3985 W
+Timestamp 68: Limiting Living room TV to 50%. Current usage: 3984 W
+Timestamp 69: Turning Roomba charging port back to 100%. Current usage: 3980 W
+Timestamp 73: Turning Living room TV back to 100%. Current usage: 3979 W
+Timestamp 74: Limiting Roomba charging port to 50%. Current usage: 4013 W
+Timestamp 74: Limiting Living room TV to 50%. Current usage: 3913 W
+Timestamp 74: Turning Roomba charging port back to 100%. Current usage: 3933 W
+Timestamp 75: Turning Living room TV back to 100%. Current usage: 3958 W
+Timestamp 76: Limiting Roomba charging port to 50%. Current usage: 4004 W
+Timestamp 76: Limiting Living room TV to 50%. Current usage: 3904 W
+Timestamp 76: Turning Roomba charging port back to 100%. Current usage: 3924 W
+Timestamp 77: Limiting Roomba charging port to 50%. Current usage: 4000 W
+Timestamp 78: Limiting Garden Lights to 50%. Current usage: 4014 W
+Timestamp 78: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 78: Turning off Roomba charging port. Current usage: 3994 W
+Timestamp 81: Turning on Roomba charging port at 50%. Current usage: 3991 W
+Timestamp 82: Turning Roomba charging port back to 100%. Current usage: 3989 W
+Timestamp 83: Limiting Roomba charging port to 50%. Current usage: 4012 W
+Timestamp 83: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 83: Turning off PlayStation 5. Current usage: 3907 W
+Timestamp 83: Turning Garden Lights back to 100%. Current usage: 3982 W
+Timestamp 84: Turning Roomba charging port back to 100%. Current usage: 3923 W
+Timestamp 85: Turning Living room TV back to 100%. Current usage: 3930 W
+Timestamp 86: Turning on PlayStation 5 at 50%. Current usage: 3967 W
+Timestamp 87: Turning PlayStation 5 back to 100%. Current usage: 3994 W
+Timestamp 104: Turning on Pool water pump at 50%. Current usage: 3992 W
+Timestamp 110: Turning Pool water pump back to 100%. Current usage: 3993 W
+Timestamp 111: Limiting Pool water pump to 50%. Current usage: 3773 W
+Timestamp 113: Turning Pool water pump back to 100%. Current usage: 3982 W
+Timestamp 135: Limiting Electric car charger to 50%. Current usage: 9228 W
+Timestamp 135: Limiting Jacuzzi to 50%. Current usage: 7728 W
+Timestamp 135: Limiting Pool water pump to 50%. Current usage: 7428 W
+Timestamp 135: Limiting Roomba charging port to 50%. Current usage: 7408 W
+Timestamp 135: Limiting Living room AC to 50%. Current usage: 6850 W
+Timestamp 135: Limiting PlayStation 5 to 50%. Current usage: 6745 W
+Timestamp 135: Limiting Living room TV to 50%. Current usage: 6645 W
+Timestamp 135: Limiting Garden Lights to 50%. Current usage: 6570 W
+Timestamp 135: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 135: Turning off Electric car charger. Current usage: 4770 W
+Timestamp 135: Turning off Jacuzzi. Current usage: 3270 W
+Timestamp 135: Turning Garden Lights back to 100%. Current usage: 3345 W
+Timestamp 135: Turning Living room TV back to 100%. Current usage: 3445 W
+Timestamp 135: Turning PlayStation 5 back to 100%. Current usage: 3550 W
+Timestamp 135: Turning Roomba charging port back to 100%. Current usage: 3570 W
+Timestamp 135: Turning Pool water pump back to 100%. Current usage: 3870 W
+Timestamp 143: Limiting Pool water pump to 50%. Current usage: 4009 W
+Timestamp 143: Limiting Roomba charging port to 50%. Current usage: 3989 W
+Timestamp 144: Turning Roomba charging port back to 100%. Current usage: 3932 W
+Timestamp 148: Turning Pool water pump back to 100%. Current usage: 3911 W
+Timestamp 149: Limiting Pool water pump to 50%. Current usage: 3997 W
+Timestamp 150: Limiting Roomba charging port to 50%. Current usage: 4225 W
+Timestamp 150: Limiting Living room AC to 50%. Current usage: 3469 W
+Timestamp 150: Turning Roomba charging port back to 100%. Current usage: 3489 W
+Timestamp 150: Turning Pool water pump back to 100%. Current usage: 3789 W
+Timestamp 152: Limiting Electric car charger to 50%. Current usage: 9361 W
+Timestamp 152: Limiting Jacuzzi to 50%. Current usage: 7861 W
+Timestamp 152: Limiting Pool water pump to 50%. Current usage: 7561 W
+Timestamp 152: Limiting Roomba charging port to 50%. Current usage: 7541 W
+Timestamp 152: Limiting Living room AC to 50%. Current usage: 6821 W
+Timestamp 152: Limiting PlayStation 5 to 50%. Current usage: 6716 W
+Timestamp 152: Limiting Living room TV to 50%. Current usage: 6616 W
+Timestamp 152: Limiting Garden Lights to 50%. Current usage: 6541 W
+Timestamp 152: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 152: Turning off Electric car charger. Current usage: 4741 W
+Timestamp 152: Turning off Jacuzzi. Current usage: 3241 W
+Timestamp 152: Turning Garden Lights back to 100%. Current usage: 3316 W
+Timestamp 152: Turning Living room TV back to 100%. Current usage: 3416 W
+Timestamp 152: Turning PlayStation 5 back to 100%. Current usage: 3521 W
+Timestamp 152: Turning Roomba charging port back to 100%. Current usage: 3541 W
+Timestamp 152: Turning Pool water pump back to 100%. Current usage: 3841 W
+Timestamp 154: Limiting Pool water pump to 50%. Current usage: 3986 W
+Timestamp 156: Limiting Roomba charging port to 50%. Current usage: 4276 W
+Timestamp 156: Limiting Living room AC to 50%. Current usage: 3574 W
+Timestamp 156: Turning Roomba charging port back to 100%. Current usage: 3594 W
+Timestamp 156: Turning Pool water pump back to 100%. Current usage: 3894 W
+Timestamp 160: Limiting Pool water pump to 50%. Current usage: 4026 W
+Timestamp 160: Limiting Roomba charging port to 50%. Current usage: 4006 W
+Timestamp 160: Limiting Living room AC to 50%. Current usage: 3610 W
+Timestamp 160: Turning Roomba charging port back to 100%. Current usage: 3630 W
+Timestamp 160: Turning Pool water pump back to 100%. Current usage: 3930 W
+Timestamp 162: Limiting Pool water pump to 50%. Current usage: 3712 W
+Timestamp 163: Turning Pool water pump back to 100%. Current usage: 3969 W
+Timestamp 172: Limiting Pool water pump to 50%. Current usage: 3795 W
+Timestamp 173: Turning Pool water pump back to 100%. Current usage: 3973 W
+Timestamp 188: Limiting Pool water pump to 50%. Current usage: 3860 W
+Timestamp 189: Limiting Roomba charging port to 50%. Current usage: 4157 W
+Timestamp 189: Limiting Living room AC to 50%. Current usage: 3203 W
+Timestamp 189: Turning on Bedroom AC at 50%. Current usage: 3903 W
+Timestamp 189: Turning Roomba charging port back to 100%. Current usage: 3923 W
+Timestamp 190: Limiting Roomba charging port to 50%. Current usage: 4112 W
+Timestamp 190: Limiting Living room AC to 50%. Current usage: 4094 W
+Timestamp 190: Limiting Bedroom AC to 50%. Current usage: 3940 W
+Timestamp 190: Turning Roomba charging port back to 100%. Current usage: 3960 W
+Timestamp 191: Turning Pool water pump back to 100%. Current usage: 3970 W
+Timestamp 195: Turning on Washing machine. Current usage: 3923 W
+Timestamp 197: Limiting Pool water pump to 50%. Current usage: 3770 W
+Timestamp 198: Turning Pool water pump back to 100%. Current usage: 3771 W
+Timestamp 203: Limiting Electric car charger to 50%. Current usage: 9386 W
+Timestamp 203: Limiting Jacuzzi to 50%. Current usage: 7886 W
+Timestamp 203: Limiting Pool water pump to 50%. Current usage: 7586 W
+Timestamp 203: Limiting Roomba charging port to 50%. Current usage: 7566 W
+Timestamp 203: Limiting Living room AC to 50%. Current usage: 6774 W
+Timestamp 203: Limiting PlayStation 5 to 50%. Current usage: 6669 W
+Timestamp 203: Limiting Living room TV to 50%. Current usage: 6569 W
+Timestamp 203: Limiting Garden Lights to 50%. Current usage: 6494 W
+Timestamp 203: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 203: Turning off Electric car charger. Current usage: 4694 W
+Timestamp 203: Turning off Jacuzzi. Current usage: 3194 W
+Timestamp 203: Turning on Washing machine. Current usage: 3994 W
+Timestamp 204: Turning Garden Lights back to 100%. Current usage: 3902 W
+Timestamp 204: Turning Roomba charging port back to 100%. Current usage: 3922 W
+Timestamp 205: Turning Living room TV back to 100%. Current usage: 3679 W
+Timestamp 205: Turning PlayStation 5 back to 100%. Current usage: 3784 W
+Timestamp 206: Turning Pool water pump back to 100%. Current usage: 3839 W
+Timestamp 213: Turning on Bedroom AC at 50%. Current usage: 3757 W
+Timestamp 216: Turning on Microwave. Current usage: 3702 W
+Timestamp 217: Limiting Pool water pump to 50%. Current usage: 3788 W
+Timestamp 218: Limiting Roomba charging port to 50%. Current usage: 4050 W
+Timestamp 218: Limiting PlayStation 5 to 50%. Current usage: 3945 W
+Timestamp 218: Turning Roomba charging port back to 100%. Current usage: 3965 W
+Timestamp 219: Turning PlayStation 5 back to 100%. Current usage: 3646 W
+Timestamp 219: Turning Pool water pump back to 100%. Current usage: 3946 W
+Timestamp 220: Limiting Pool water pump to 50%. Current usage: 3713 W
+Timestamp 223: Turning Pool water pump back to 100%. Current usage: 3698 W
+Timestamp 228: Limiting Electric car charger to 50%. Current usage: 9589 W
+Timestamp 228: Limiting Jacuzzi to 50%. Current usage: 8089 W
+Timestamp 228: Limiting Pool water pump to 50%. Current usage: 7789 W
+Timestamp 228: Limiting Roomba charging port to 50%. Current usage: 7769 W
+Timestamp 228: Limiting Living room AC to 50%. Current usage: 6743 W
+Timestamp 228: Limiting PlayStation 5 to 50%. Current usage: 6638 W
+Timestamp 228: Limiting Living room TV to 50%. Current usage: 6538 W
+Timestamp 228: Limiting Garden Lights to 50%. Current usage: 6463 W
+Timestamp 228: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 228: Turning off Electric car charger. Current usage: 4663 W
+Timestamp 228: Turning off Jacuzzi. Current usage: 3163 W
+Timestamp 228: Turning on Washing machine. Current usage: 3963 W
+Timestamp 228: Turning Roomba charging port back to 100%. Current usage: 3983 W
+Timestamp 229: Turning Garden Lights back to 100%. Current usage: 3939 W
+Timestamp 230: Turning Living room TV back to 100%. Current usage: 3816 W
+Timestamp 230: Turning PlayStation 5 back to 100%. Current usage: 3921 W
+Timestamp 233: Limiting Roomba charging port to 50%. Current usage: 4057 W
+Timestamp 233: Limiting PlayStation 5 to 50%. Current usage: 3952 W
+Timestamp 233: Turning Roomba charging port back to 100%. Current usage: 3972 W
+Timestamp 234: Limiting Roomba charging port to 50%. Current usage: 4198 W
+Timestamp 234: Limiting Living room TV to 50%. Current usage: 4098 W
+Timestamp 234: Limiting Garden Lights to 50%. Current usage: 4023 W
+Timestamp 234: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 234: Turning off Pool water pump. Current usage: 3723 W
+Timestamp 234: Turning Garden Lights back to 100%. Current usage: 3798 W
+Timestamp 234: Turning Living room TV back to 100%. Current usage: 3898 W
+Timestamp 234: Turning Roomba charging port back to 100%. Current usage: 3918 W
+Timestamp 235: Turning PlayStation 5 back to 100%. Current usage: 3712 W
+Timestamp 240: Turning on Pool water pump at 50%. Current usage: 3833 W
+Timestamp 241: Turning Pool water pump back to 100%. Current usage: 3710 W
+Timestamp 243: Limiting Pool water pump to 50%. Current usage: 3825 W
+Timestamp 244: Turning Pool water pump back to 100%. Current usage: 3945 W
+Timestamp 245: Limiting Pool water pump to 50%. Current usage: 3923 W
+Timestamp 248: Turning Pool water pump back to 100%. Current usage: 3873 W
+Timestamp 249: Limiting Pool water pump to 50%. Current usage: 3727 W
+Timestamp 251: Turning Pool water pump back to 100%. Current usage: 3899 W
+Timestamp 257: Limiting Pool water pump to 50%. Current usage: 3735 W
+Timestamp 258: Turning on Bedroom AC at 50%. Current usage: 3985 W
+Timestamp 263: Limiting Roomba charging port to 50%. Current usage: 4411 W
+Timestamp 263: Limiting Bedroom AC to 50%. Current usage: 3893 W
+Timestamp 263: Turning Roomba charging port back to 100%. Current usage: 3913 W
+Timestamp 267: Limiting Roomba charging port to 50%. Current usage: 4137 W
+Timestamp 267: Limiting Bedroom AC to 50%. Current usage: 4095 W
+Timestamp 267: Limiting PlayStation 5 to 50%. Current usage: 3990 W
+Timestamp 268: Limiting Living room AC to 50%. Current usage: 4272 W
+Timestamp 268: Limiting Living room TV to 50%. Current usage: 4172 W
+Timestamp 268: Limiting Garden Lights to 50%. Current usage: 4097 W
+Timestamp 268: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 268: Turning off Pool water pump. Current usage: 3797 W
+Timestamp 268: Turning Garden Lights back to 100%. Current usage: 3872 W
+Timestamp 268: Turning Living room TV back to 100%. Current usage: 3972 W
+Timestamp 268: Turning Roomba charging port back to 100%. Current usage: 3992 W
+Timestamp 269: Limiting Roomba charging port to 50%. Current usage: 4463 W
+Timestamp 269: Limiting Living room AC to 50%. Current usage: 4103 W
+Timestamp 269: Limiting Bedroom AC to 50%. Current usage: 3921 W
+Timestamp 269: Turning Roomba charging port back to 100%. Current usage: 3941 W
+Timestamp 270: Limiting Roomba charging port to 50%. Current usage: 4448 W
+Timestamp 270: Limiting Living room AC to 50%. Current usage: 4214 W
+Timestamp 270: Limiting Bedroom AC to 50%. Current usage: 3948 W
+Timestamp 270: Turning Roomba charging port back to 100%. Current usage: 3968 W
+Timestamp 272: Turning PlayStation 5 back to 100%. Current usage: 3863 W
+Timestamp 274: Limiting Roomba charging port to 50%. Current usage: 4016 W
+Timestamp 274: Limiting Living room AC to 50%. Current usage: 3674 W
+Timestamp 274: Turning Roomba charging port back to 100%. Current usage: 3694 W
+Timestamp 274: Turning on Pool water pump at 50%. Current usage: 3994 W
+Timestamp 275: Limiting Roomba charging port to 50%. Current usage: 4395 W
+Timestamp 275: Limiting Living room AC to 50%. Current usage: 4251 W
+Timestamp 275: Limiting PlayStation 5 to 50%. Current usage: 4146 W
+Timestamp 275: Limiting Living room TV to 50%. Current usage: 4046 W
+Timestamp 275: Limiting Garden Lights to 50%. Current usage: 3971 W
+Timestamp 275: Turning Roomba charging port back to 100%. Current usage: 3991 W
+Timestamp 276: Turning Garden Lights back to 100%. Current usage: 3748 W
+Timestamp 276: Turning Living room TV back to 100%. Current usage: 3848 W
+Timestamp 276: Turning PlayStation 5 back to 100%. Current usage: 3953 W
+Timestamp 280: Turning Pool water pump back to 100%. Current usage: 3910 W
+Timestamp 281: Limiting Pool water pump to 50%. Current usage: 3887 W
+Timestamp 282: Limiting Roomba charging port to 50%. Current usage: 4132 W
+Timestamp 282: Limiting Bedroom AC to 50%. Current usage: 3502 W
+Timestamp 282: Turning Roomba charging port back to 100%. Current usage: 3522 W
+Timestamp 282: Turning Pool water pump back to 100%. Current usage: 3822 W
+Timestamp 283: Limiting Pool water pump to 50%. Current usage: 3824 W
+Timestamp 284: Limiting Roomba charging port to 50%. Current usage: 4042 W
+Timestamp 284: Limiting PlayStation 5 to 50%. Current usage: 3937 W
+Timestamp 284: Turning Roomba charging port back to 100%. Current usage: 3957 W
+Timestamp 285: Turning PlayStation 5 back to 100%. Current usage: 3914 W
+Timestamp 286: Limiting Roomba charging port to 50%. Current usage: 4296 W
+Timestamp 286: Limiting Living room AC to 50%. Current usage: 4206 W
+Timestamp 286: Limiting Bedroom AC to 50%. Current usage: 4178 W
+Timestamp 286: Limiting PlayStation 5 to 50%. Current usage: 4073 W
+Timestamp 286: Limiting Living room TV to 50%. Current usage: 3973 W
+Timestamp 286: Turning Roomba charging port back to 100%. Current usage: 3993 W
+Timestamp 287: Limiting Roomba charging port to 50%. Current usage: 4160 W
+Timestamp 287: Limiting Bedroom AC to 50%. Current usage: 3922 W
+Timestamp 287: Turning Roomba charging port back to 100%. Current usage: 3942 W
+Timestamp 288: Turning Living room TV back to 100%. Current usage: 3805 W
+Timestamp 288: Turning PlayStation 5 back to 100%. Current usage: 3910 W
+Timestamp 292: Turning Pool water pump back to 100%. Current usage: 3752 W
+Timestamp 299: Limiting Pool water pump to 50%. Current usage: 3862 W
+Timestamp 300: Limiting Roomba charging port to 50%. Current usage: 4028 W
+Timestamp 300: Limiting PlayStation 5 to 50%. Current usage: 3923 W
+Timestamp 300: Turning Roomba charging port back to 100%. Current usage: 3943 W
+Timestamp 301: Turning PlayStation 5 back to 100%. Current usage: 3940 W
+Timestamp 302: Limiting Roomba charging port to 50%. Current usage: 4099 W
+Timestamp 302: Limiting Living room AC to 50%. Current usage: 3973 W
+Timestamp 302: Turning Roomba charging port back to 100%. Current usage: 3993 W
+Timestamp 303: Limiting Roomba charging port to 50%. Current usage: 4024 W
+Timestamp 303: Limiting Living room AC to 50%. Current usage: 3790 W
+Timestamp 303: Turning Roomba charging port back to 100%. Current usage: 3810 W
+Timestamp 304: Limiting Roomba charging port to 50%. Current usage: 4117 W
+Timestamp 304: Limiting Living room AC to 50%. Current usage: 4045 W
+Timestamp 304: Limiting PlayStation 5 to 50%. Current usage: 3940 W
+Timestamp 304: Turning Roomba charging port back to 100%. Current usage: 3960 W
+Timestamp 305: Turning PlayStation 5 back to 100%. Current usage: 3988 W
+Timestamp 306: Turning Pool water pump back to 100%. Current usage: 3937 W
+Timestamp 311: Turning on Microwave. Current usage: 3519 W
+Timestamp 319: Limiting Pool water pump to 50%. Current usage: 4153 W
+Timestamp 319: Limiting Roomba charging port to 50%. Current usage: 4133 W
+Timestamp 319: Limiting PlayStation 5 to 50%. Current usage: 4028 W
+Timestamp 319: Limiting Living room TV to 50%. Current usage: 3928 W
+Timestamp 319: Turning Roomba charging port back to 100%. Current usage: 3948 W
+Timestamp 321: Turning Living room TV back to 100%. Current usage: 3490 W
+Timestamp 321: Turning PlayStation 5 back to 100%. Current usage: 3595 W
+Timestamp 321: Turning Pool water pump back to 100%. Current usage: 3895 W
+Timestamp 326: Limiting Pool water pump to 50%. Current usage: 3726 W
+Timestamp 327: Limiting Roomba charging port to 50%. Current usage: 4042 W
+Timestamp 327: Limiting PlayStation 5 to 50%. Current usage: 3937 W
+Timestamp 327: Turning Roomba charging port back to 100%. Current usage: 3957 W
+Timestamp 328: Limiting Roomba charging port to 50%. Current usage: 4531 W
+Timestamp 328: Limiting Bedroom AC to 50%. Current usage: 4405 W
+Timestamp 328: Limiting Living room TV to 50%. Current usage: 4305 W
+Timestamp 328: Limiting Garden Lights to 50%. Current usage: 4230 W
+Timestamp 328: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 328: Turning off Pool water pump. Current usage: 3930 W
+Timestamp 328: Turning Roomba charging port back to 100%. Current usage: 3950 W
+Timestamp 329: Limiting Roomba charging port to 50%. Current usage: 24367 W
+Timestamp 329: Limiting Bedroom AC to 50%. Current usage: 24143 W
+Timestamp 329: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 329: Turning off Roomba charging port. Current usage: 24123 W
+Timestamp 329: Turning off Living room AC. Current usage: 23511 W
+Timestamp 329: Turning off Bedroom AC. Current usage: 22811 W
+Timestamp 329: Turning off PlayStation 5. Current usage: 22706 W
+Timestamp 329: Turning off Garden Lights. Current usage: 22631 W
+Timestamp 329: Turning off Microwave. Current usage: 21631 W
+Timestamp 329: Turning off Washing machine. Current usage: 20831 W
+Timestamp 329: Turning off Computer (Workstation). Current usage: 20331 W
+Timestamp 329: Turning off Boiler. Current usage: 18331 W
+Timestamp 329: Turning off Boiler pump. Current usage: 18211 W
+Timestamp 329: Turning off Home Server (NAS). Current usage: 18131 W
+Timestamp 330: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 331: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 331: Turning off Living room TV. Current usage: 17995 W
+Timestamp 332: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 333: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 334: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 335: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 335: Turning off Living room TV. Current usage: 18081 W
+Timestamp 336: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 337: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 338: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 339: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 340: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 341: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 342: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 343: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 344: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 345: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 346: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 347: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 347: Turning off Living room TV. Current usage: 18692 W
+Timestamp 348: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 349: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 350: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 351: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 351: Turning off Living room TV. Current usage: 18802 W
+Timestamp 352: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 353: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 354: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 355: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 356: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 357: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 358: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 359: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 360: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 361: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 362: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 363: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 364: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 365: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 366: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 367: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 368: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 369: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 370: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 370: Turning off Living room TV. Current usage: 18980 W
+Timestamp 371: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 372: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 373: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 374: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 375: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 376: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 377: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 377: Turning off Living room TV. Current usage: 18974 W
+Timestamp 378: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 379: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 380: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 381: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 382: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 383: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 383: Turning off Living room TV. Current usage: 18980 W
+Timestamp 384: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 385: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 386: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 387: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 388: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 389: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 390: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 391: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 392: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 393: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 393: Turning off Living room TV. Current usage: 19002 W
+Timestamp 394: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 395: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 396: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 397: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 398: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 399: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 400: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 401: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 402: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 403: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 404: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 405: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 406: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 407: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 408: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 409: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 410: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 411: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 412: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 413: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 414: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 414: Turning off Living room TV. Current usage: 18587 W
+Timestamp 415: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 416: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 417: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 418: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 419: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 420: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 421: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 422: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 423: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 424: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 424: Turning off Living room TV. Current usage: 18677 W
+Timestamp 425: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 426: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 427: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 428: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 429: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 430: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 431: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 432: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 433: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 434: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 435: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 436: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 436: Turning off Living room TV. Current usage: 18404 W
+Timestamp 437: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 438: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 439: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 440: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 440: Turning off Living room TV. Current usage: 18582 W
+Timestamp 441: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 442: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 443: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 444: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 445: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 446: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 447: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 448: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 449: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 450: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 451: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 452: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 453: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 454: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 455: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 455: Turning off Living room TV. Current usage: 18330 W
+Timestamp 456: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 457: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 458: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 459: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 460: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 461: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 462: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 463: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 464: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 465: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 466: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 467: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 468: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 469: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 470: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 470: Turning off Living room TV. Current usage: 18454 W
+Timestamp 471: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 472: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 473: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 474: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 475: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 476: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 477: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 478: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 478: Turning off Living room TV. Current usage: 18367 W
+Timestamp 479: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 480: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 481: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 482: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 483: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 484: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 485: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 486: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 487: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 488: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 488: Turning off Living room TV. Current usage: 18213 W
+Timestamp 489: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 490: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 491: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 492: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 493: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 494: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 495: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 495: Turning off Living room TV. Current usage: 18175 W
+Timestamp 496: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 497: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 498: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 499: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 499: Turning off Living room TV. Current usage: 18231 W
+Timestamp 500: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 501: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 502: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 503: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 504: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 505: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 506: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 507: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 508: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 509: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 510: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 511: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 512: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 513: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 513: Turning off Living room TV. Current usage: 18125 W
+Timestamp 514: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 515: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 516: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 517: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 518: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 519: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 520: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 521: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 522: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 523: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 524: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 525: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 526: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 526: Turning off Living room TV. Current usage: 17860 W
+Timestamp 527: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 528: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 529: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 530: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 531: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 532: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 533: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 534: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 535: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 536: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 537: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 537: Turning off Living room TV. Current usage: 18060 W
+Timestamp 538: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 539: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 540: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 541: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 542: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 543: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 544: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 545: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 546: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 547: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 548: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 548: Turning off Living room TV. Current usage: 18392 W
+Timestamp 549: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 550: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 551: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 552: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 553: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 554: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 554: Turning off Living room TV. Current usage: 18492 W
+Timestamp 555: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 556: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 557: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 558: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 559: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 560: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 561: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 562: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 563: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 564: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 564: Turning off Living room TV. Current usage: 18416 W
+Timestamp 565: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 566: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 567: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 568: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 569: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 570: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 571: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 572: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 573: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 574: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 574: Turning off Living room TV. Current usage: 18257 W
+Timestamp 575: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 576: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 577: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 578: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 579: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 580: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 581: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 582: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 583: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 584: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 585: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 586: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 587: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 588: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 589: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 590: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 591: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 591: Turning off Living room TV. Current usage: 18269 W
+Timestamp 592: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 593: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 594: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 595: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 596: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 597: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 598: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 599: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 600: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 601: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 602: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 603: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 604: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 605: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 606: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 607: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 608: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 609: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 609: Turning off Living room TV. Current usage: 18464 W
+Timestamp 610: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 611: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 612: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 613: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 614: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 614: Turning off Living room TV. Current usage: 18518 W
+Timestamp 615: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 616: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 617: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 618: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 619: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 620: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 620: Turning off Living room TV. Current usage: 18602 W
+Timestamp 621: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 622: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 623: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 624: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 625: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 626: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 627: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 627: Turning off Living room TV. Current usage: 18943 W
+Timestamp 628: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 629: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 630: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 631: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 631: Turning off Living room TV. Current usage: 18921 W
+Timestamp 632: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 633: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 634: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 635: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 636: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 637: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 638: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 639: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 640: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 640: Turning off Living room TV. Current usage: 18668 W
+Timestamp 641: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 642: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 643: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 644: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 645: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 646: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 647: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 648: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 649: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 649: Turning off Living room TV. Current usage: 18612 W
+Timestamp 650: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 651: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 652: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 653: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 654: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 654: Turning off Living room TV. Current usage: 18536 W
+Timestamp 655: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 656: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 657: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 658: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 659: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 660: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 661: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 662: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 663: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 664: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 665: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 666: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 666: Turning off Living room TV. Current usage: 18656 W
+Timestamp 667: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 668: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 669: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 670: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 671: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 672: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 672: Turning off Living room TV. Current usage: 18637 W
+Timestamp 673: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 674: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 675: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 676: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 677: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 678: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 679: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 680: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 681: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 682: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 683: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 684: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 684: Turning off Living room TV. Current usage: 18533 W
+Timestamp 685: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 686: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 687: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 688: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 689: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 690: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 691: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 692: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 693: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 694: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 694: Turning off Living room TV. Current usage: 18788 W
+Timestamp 695: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 696: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 697: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 698: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 699: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 699: Turning off Living room TV. Current usage: 18874 W
+Timestamp 700: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 701: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 702: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 703: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 704: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 704: Turning off Living room TV. Current usage: 18797 W
+Timestamp 705: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 706: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 707: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 708: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 709: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 710: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 711: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 712: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 712: Turning off Living room TV. Current usage: 18425 W
+Timestamp 713: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 714: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 715: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 716: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 717: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 718: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 719: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 720: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 721: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 722: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 723: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 724: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 724: Turning off Living room TV. Current usage: 18418 W
+Timestamp 725: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 726: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 727: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 728: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 729: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 729: Turning off Living room TV. Current usage: 18214 W
+Timestamp 730: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 731: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 732: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 733: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 734: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 735: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 736: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 737: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 738: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 739: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 740: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 741: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 742: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 743: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 744: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 745: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 746: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 747: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 747: Turning off Living room TV. Current usage: 17865 W
+Timestamp 748: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 749: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 750: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 751: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 752: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 752: Turning off Living room TV. Current usage: 17793 W
+Timestamp 753: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 754: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 755: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 756: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 756: Turning off Living room TV. Current usage: 17751 W
+Timestamp 757: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 758: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 759: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 760: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 761: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 762: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 763: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 764: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 765: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 765: Turning off Living room TV. Current usage: 18116 W
+Timestamp 766: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 767: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 768: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 769: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 770: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 771: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 772: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 773: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 774: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 775: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 776: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 777: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 778: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 778: Turning off Living room TV. Current usage: 18493 W
+Timestamp 779: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 780: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 781: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 782: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 783: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 784: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 785: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 785: Turning off Living room TV. Current usage: 18502 W
+Timestamp 786: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 787: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 788: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 789: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 790: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 791: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 792: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 792: Turning off Living room TV. Current usage: 18736 W
+Timestamp 793: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 794: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 795: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 796: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 797: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 798: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 799: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 799: Turning off Living room TV. Current usage: 18365 W
+Timestamp 800: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 801: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 802: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 803: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 804: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 805: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 806: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 807: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 807: Turning off Living room TV. Current usage: 18299 W
+Timestamp 808: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 809: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 810: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 811: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 812: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 813: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 814: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 815: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 816: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 817: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 818: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 819: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 820: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 821: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 821: Turning off Living room TV. Current usage: 18663 W
+Timestamp 822: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 823: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 824: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 825: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 826: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 827: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 828: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 829: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 830: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 831: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 832: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 833: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 834: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 834: Turning off Living room TV. Current usage: 18610 W
+Timestamp 835: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 836: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 837: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 838: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 839: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 839: Turning off Living room TV. Current usage: 18630 W
+Timestamp 840: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 841: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 842: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 843: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 844: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 845: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 846: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 847: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 848: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 849: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 850: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 851: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 852: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 852: Turning off Living room TV. Current usage: 18295 W
+Timestamp 853: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 854: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 855: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 856: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 856: Turning off Living room TV. Current usage: 18370 W
+Timestamp 857: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 858: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 859: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 860: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 861: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 862: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 863: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 864: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 865: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 865: Turning off Living room TV. Current usage: 18078 W
+Timestamp 866: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 867: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 868: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 869: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 869: Turning off Living room TV. Current usage: 18057 W
+Timestamp 870: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 871: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 872: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 873: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 874: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 875: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 876: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 877: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 878: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 879: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 880: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 881: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 882: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 883: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 884: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 885: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 886: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 887: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 888: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 889: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 889: Turning off Living room TV. Current usage: 17986 W
+Timestamp 890: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 891: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 892: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 893: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 894: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 895: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 896: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 897: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 897: Turning off Living room TV. Current usage: 17902 W
+Timestamp 898: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 899: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 900: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 901: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 901: Turning off Living room TV. Current usage: 17897 W
+Timestamp 902: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 903: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 904: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 905: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 906: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 907: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 908: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 909: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 910: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 910: Turning off Living room TV. Current usage: 17727 W
+Timestamp 911: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 912: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 913: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 914: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 915: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 916: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 917: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 918: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 919: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 920: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 921: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 922: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 922: Turning off Living room TV. Current usage: 17881 W
+Timestamp 923: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 924: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 925: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 926: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 927: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 928: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 929: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 929: Turning off Living room TV. Current usage: 17796 W
+Timestamp 930: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 931: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 932: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 933: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 934: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 935: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 935: Turning off Living room TV. Current usage: 17694 W
+Timestamp 936: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 937: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 938: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 939: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 939: Turning off Living room TV. Current usage: 17505 W
+Timestamp 940: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 941: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 942: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 943: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 943: Turning off Living room TV. Current usage: 17570 W
+Timestamp 944: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 945: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 946: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 947: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 948: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 949: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 950: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 951: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 952: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 952: Turning off Living room TV. Current usage: 17440 W
+Timestamp 953: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 954: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 955: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 956: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 957: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 958: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 959: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 960: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 960: Turning off Living room TV. Current usage: 17398 W
+Timestamp 961: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 962: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 963: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 964: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 964: Turning off Living room TV. Current usage: 17659 W
+Timestamp 965: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 966: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 967: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 968: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 969: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 970: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 971: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 972: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 973: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 973: Turning off Living room TV. Current usage: 17724 W
+Timestamp 974: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 975: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 976: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 977: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 978: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 979: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 980: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 980: Turning off Living room TV. Current usage: 17741 W
+Timestamp 981: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 982: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 983: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 984: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 985: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 986: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 987: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 988: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 988: Turning off Living room TV. Current usage: 17619 W
+Timestamp 989: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 990: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 991: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 992: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 993: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 994: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 995: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 996: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 996: Turning off Living room TV. Current usage: 17585 W
+Timestamp 997: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 998: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 999: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1000: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1001: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1002: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1003: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1004: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1005: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1006: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1007: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1008: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1009: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1010: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1011: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1012: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1013: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1014: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1015: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1016: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1016: Turning off Living room TV. Current usage: 17982 W
+Timestamp 1017: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1018: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1019: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1020: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1021: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1021: Turning off Living room TV. Current usage: 18146 W
+Timestamp 1022: Limiting Electric car charger to 50%. Current usage: 9696 W
+Timestamp 1022: Limiting Jacuzzi to 50%. Current usage: 8196 W
+Timestamp 1022: Limiting Pool water pump to 50%. Current usage: 7896 W
+Timestamp 1022: Limiting Roomba charging port to 50%. Current usage: 7876 W
+Timestamp 1022: Limiting Living room AC to 50%. Current usage: 6904 W
+Timestamp 1022: Limiting PlayStation 5 to 50%. Current usage: 6799 W
+Timestamp 1022: Limiting Living room TV to 50%. Current usage: 6699 W
+Timestamp 1022: Limiting Garden Lights to 50%. Current usage: 6624 W
+Timestamp 1022: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1022: Turning off Electric car charger. Current usage: 4824 W
+Timestamp 1022: Turning off Jacuzzi. Current usage: 3324 W
+Timestamp 1022: Turning Garden Lights back to 100%. Current usage: 3399 W
+Timestamp 1022: Turning Living room TV back to 100%. Current usage: 3499 W
+Timestamp 1022: Turning PlayStation 5 back to 100%. Current usage: 3604 W
+Timestamp 1022: Turning Roomba charging port back to 100%. Current usage: 3624 W
+Timestamp 1022: Turning Pool water pump back to 100%. Current usage: 3924 W
+Timestamp 1023: Limiting Pool water pump to 50%. Current usage: 3960 W
+Timestamp 1025: Turning Pool water pump back to 100%. Current usage: 3988 W
+Timestamp 1026: Limiting Pool water pump to 50%. Current usage: 3901 W
+Timestamp 1028: Limiting Roomba charging port to 50%. Current usage: 4201 W
+Timestamp 1028: Limiting Living room AC to 50%. Current usage: 3499 W
+Timestamp 1028: Turning Roomba charging port back to 100%. Current usage: 3519 W
+Timestamp 1028: Turning Pool water pump back to 100%. Current usage: 3819 W
+Timestamp 1033: Turning on Bedroom AC at 50%. Current usage: 3904 W
+Timestamp 1034: Limiting Pool water pump to 50%. Current usage: 4160 W
+Timestamp 1034: Limiting Roomba charging port to 50%. Current usage: 4140 W
+Timestamp 1034: Limiting Bedroom AC to 50%. Current usage: 3860 W
+Timestamp 1034: Turning Roomba charging port back to 100%. Current usage: 3880 W
+Timestamp 1035: Limiting Roomba charging port to 50%. Current usage: 4298 W
+Timestamp 1035: Limiting Bedroom AC to 50%. Current usage: 4102 W
+Timestamp 1035: Limiting PlayStation 5 to 50%. Current usage: 3997 W
+Timestamp 1036: Limiting Living room AC to 50%. Current usage: 4238 W
+Timestamp 1036: Limiting Bedroom AC to 50%. Current usage: 4084 W
+Timestamp 1036: Limiting Living room TV to 50%. Current usage: 3984 W
+Timestamp 1037: Turning Living room TV back to 100%. Current usage: 3985 W
+Timestamp 1038: Turning PlayStation 5 back to 100%. Current usage: 3756 W
+Timestamp 1038: Turning Roomba charging port back to 100%. Current usage: 3776 W
+Timestamp 1039: Turning Pool water pump back to 100%. Current usage: 3823 W
+Timestamp 1043: Turning on Washing machine. Current usage: 3881 W
+Timestamp 1052: Turning on Microwave. Current usage: 3939 W
+Timestamp 1059: Limiting Electric car charger to 50%. Current usage: 9617 W
+Timestamp 1059: Limiting Jacuzzi to 50%. Current usage: 8117 W
+Timestamp 1059: Limiting Pool water pump to 50%. Current usage: 7817 W
+Timestamp 1059: Limiting Roomba charging port to 50%. Current usage: 7797 W
+Timestamp 1059: Limiting Living room AC to 50%. Current usage: 6717 W
+Timestamp 1059: Limiting PlayStation 5 to 50%. Current usage: 6612 W
+Timestamp 1059: Limiting Living room TV to 50%. Current usage: 6512 W
+Timestamp 1059: Limiting Garden Lights to 50%. Current usage: 6437 W
+Timestamp 1059: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1059: Turning off Electric car charger. Current usage: 4637 W
+Timestamp 1059: Turning off Jacuzzi. Current usage: 3137 W
+Timestamp 1059: Turning on Washing machine. Current usage: 3937 W
+Timestamp 1059: Turning Roomba charging port back to 100%. Current usage: 3957 W
+Timestamp 1060: Limiting Roomba charging port to 50%. Current usage: 4087 W
+Timestamp 1060: Limiting Living room AC to 50%. Current usage: 3943 W
+Timestamp 1060: Turning Roomba charging port back to 100%. Current usage: 3963 W
+Timestamp 1061: Turning Garden Lights back to 100%. Current usage: 3907 W
+Timestamp 1062: Limiting Roomba charging port to 50%. Current usage: 4068 W
+Timestamp 1062: Limiting Living room AC to 50%. Current usage: 4032 W
+Timestamp 1062: Limiting Garden Lights to 50%. Current usage: 3957 W
+Timestamp 1062: Turning Roomba charging port back to 100%. Current usage: 3977 W
+Timestamp 1064: Limiting Roomba charging port to 50%. Current usage: 4147 W
+Timestamp 1064: Limiting Living room AC to 50%. Current usage: 3949 W
+Timestamp 1064: Turning Roomba charging port back to 100%. Current usage: 3969 W
+Timestamp 1065: Limiting Roomba charging port to 50%. Current usage: 4228 W
+Timestamp 1065: Limiting Living room AC to 50%. Current usage: 3886 W
+Timestamp 1065: Turning Garden Lights back to 100%. Current usage: 3961 W
+Timestamp 1065: Turning Roomba charging port back to 100%. Current usage: 3981 W
+Timestamp 1066: Limiting Roomba charging port to 50%. Current usage: 4225 W
+Timestamp 1066: Limiting Living room AC to 50%. Current usage: 3919 W
+Timestamp 1066: Turning Roomba charging port back to 100%. Current usage: 3939 W
+Timestamp 1067: Turning Living room TV back to 100%. Current usage: 3896 W
+Timestamp 1068: Turning PlayStation 5 back to 100%. Current usage: 3854 W
+Timestamp 1070: Turning Pool water pump back to 100%. Current usage: 3965 W
+Timestamp 1071: Limiting Pool water pump to 50%. Current usage: 3716 W
+Timestamp 1073: Limiting Roomba charging port to 50%. Current usage: 4099 W
+Timestamp 1073: Limiting PlayStation 5 to 50%. Current usage: 3994 W
+Timestamp 1074: Limiting Living room AC to 50%. Current usage: 4274 W
+Timestamp 1074: Limiting Living room TV to 50%. Current usage: 4174 W
+Timestamp 1074: Limiting Garden Lights to 50%. Current usage: 4099 W
+Timestamp 1074: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1074: Turning off Pool water pump. Current usage: 3799 W
+Timestamp 1074: Turning Garden Lights back to 100%. Current usage: 3874 W
+Timestamp 1074: Turning Living room TV back to 100%. Current usage: 3974 W
+Timestamp 1074: Turning Roomba charging port back to 100%. Current usage: 3994 W
+Timestamp 1075: Limiting Roomba charging port to 50%. Current usage: 4077 W
+Timestamp 1075: Limiting Living room AC to 50%. Current usage: 3897 W
+Timestamp 1075: Turning Roomba charging port back to 100%. Current usage: 3917 W
+Timestamp 1076: Limiting Roomba charging port to 50%. Current usage: 4209 W
+Timestamp 1076: Limiting Living room AC to 50%. Current usage: 3867 W
+Timestamp 1076: Turning PlayStation 5 back to 100%. Current usage: 3972 W
+Timestamp 1076: Turning Roomba charging port back to 100%. Current usage: 3992 W
+Timestamp 1077: Limiting Roomba charging port to 50%. Current usage: 4195 W
+Timestamp 1077: Limiting Living room AC to 50%. Current usage: 3943 W
+Timestamp 1077: Turning Roomba charging port back to 100%. Current usage: 3963 W
+Timestamp 1079: Turning on Pool water pump at 50%. Current usage: 3912 W
+Timestamp 1080: Limiting Roomba charging port to 50%. Current usage: 4204 W
+Timestamp 1080: Limiting PlayStation 5 to 50%. Current usage: 4099 W
+Timestamp 1080: Limiting Living room TV to 50%. Current usage: 3999 W
+Timestamp 1081: Limiting Garden Lights to 50%. Current usage: 3944 W
+Timestamp 1081: Turning Roomba charging port back to 100%. Current usage: 3964 W
+Timestamp 1082: Limiting Roomba charging port to 50%. Current usage: 4003 W
+Timestamp 1082: Limiting Living room AC to 50%. Current usage: 3931 W
+Timestamp 1082: Turning Roomba charging port back to 100%. Current usage: 3951 W
+Timestamp 1083: Turning Garden Lights back to 100%. Current usage: 3874 W
+Timestamp 1083: Turning Living room TV back to 100%. Current usage: 3974 W
+Timestamp 1084: Limiting Roomba charging port to 50%. Current usage: 4056 W
+Timestamp 1084: Limiting Living room TV to 50%. Current usage: 3956 W
+Timestamp 1084: Turning Roomba charging port back to 100%. Current usage: 3976 W
+Timestamp 1085: Limiting Roomba charging port to 50%. Current usage: 4200 W
+Timestamp 1085: Limiting Living room AC to 50%. Current usage: 4164 W
+Timestamp 1085: Limiting Garden Lights to 50%. Current usage: 4089 W
+Timestamp 1085: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1085: Turning off Pool water pump. Current usage: 3789 W
+Timestamp 1085: Turning Garden Lights back to 100%. Current usage: 3864 W
+Timestamp 1085: Turning Living room TV back to 100%. Current usage: 3964 W
+Timestamp 1085: Turning Roomba charging port back to 100%. Current usage: 3984 W
+Timestamp 1086: Turning PlayStation 5 back to 100%. Current usage: 3953 W
+Timestamp 1088: Limiting Roomba charging port to 50%. Current usage: 3989 W
+Timestamp 1089: Turning Roomba charging port back to 100%. Current usage: 3643 W
+Timestamp 1089: Turning on Pool water pump at 50%. Current usage: 3943 W
+Timestamp 1090: Limiting Roomba charging port to 50%. Current usage: 4068 W
+Timestamp 1090: Limiting PlayStation 5 to 50%. Current usage: 3963 W
+Timestamp 1090: Turning Roomba charging port back to 100%. Current usage: 3983 W
+Timestamp 1091: Turning PlayStation 5 back to 100%. Current usage: 3773 W
+Timestamp 1094: Limiting Roomba charging port to 50%. Current usage: 3999 W
+Timestamp 1095: Limiting PlayStation 5 to 50%. Current usage: 3932 W
+Timestamp 1095: Turning Roomba charging port back to 100%. Current usage: 3952 W
+Timestamp 1096: Limiting Roomba charging port to 50%. Current usage: 4350 W
+Timestamp 1096: Limiting Living room TV to 50%. Current usage: 4250 W
+Timestamp 1096: Limiting Garden Lights to 50%. Current usage: 4175 W
+Timestamp 1096: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1096: Turning off Pool water pump. Current usage: 3875 W
+Timestamp 1096: Turning Garden Lights back to 100%. Current usage: 3950 W
+Timestamp 1096: Turning Roomba charging port back to 100%. Current usage: 3970 W
+Timestamp 1097: Turning Living room TV back to 100%. Current usage: 3788 W
+Timestamp 1097: Turning PlayStation 5 back to 100%. Current usage: 3893 W
+Timestamp 1098: Limiting Roomba charging port to 50%. Current usage: 4134 W
+Timestamp 1098: Limiting PlayStation 5 to 50%. Current usage: 4029 W
+Timestamp 1098: Limiting Living room TV to 50%. Current usage: 3929 W
+Timestamp 1098: Turning Roomba charging port back to 100%. Current usage: 3949 W
+Timestamp 1099: Limiting Roomba charging port to 50%. Current usage: 4065 W
+Timestamp 1099: Limiting Living room AC to 50%. Current usage: 4029 W
+Timestamp 1099: Limiting Garden Lights to 50%. Current usage: 3954 W
+Timestamp 1099: Turning Roomba charging port back to 100%. Current usage: 3974 W
+Timestamp 1100: Limiting Roomba charging port to 50%. Current usage: 4245 W
+Timestamp 1100: Limiting Living room AC to 50%. Current usage: 4029 W
+Timestamp 1100: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1100: Turning off Roomba charging port. Current usage: 4009 W
+Timestamp 1100: Turning off Living room AC. Current usage: 3109 W
+Timestamp 1100: Turning Garden Lights back to 100%. Current usage: 3184 W
+Timestamp 1100: Turning Living room TV back to 100%. Current usage: 3284 W
+Timestamp 1100: Turning PlayStation 5 back to 100%. Current usage: 3389 W
+Timestamp 1100: Turning on Pool water pump. Current usage: 3689 W
+Timestamp 1101: Turning Pool water pump back to 100%. Current usage: 3951 W
+Timestamp 1103: Turning on Roomba charging port. Current usage: 3886 W
+Timestamp 1104: Turning Roomba charging port back to 100%. Current usage: 4000 W
+Timestamp 1105: Limiting Pool water pump to 50%. Current usage: 3781 W
+Timestamp 1109: Turning Pool water pump back to 100%. Current usage: 3949 W
+Timestamp 1113: Limiting Pool water pump to 50%. Current usage: 3747 W
+Timestamp 1116: Turning Pool water pump back to 100%. Current usage: 3993 W
+Timestamp 1117: Limiting Pool water pump to 50%. Current usage: 3777 W
+Timestamp 1119: Turning Pool water pump back to 100%. Current usage: 3991 W
+Timestamp 1120: Limiting Pool water pump to 50%. Current usage: 3751 W
+Timestamp 1145: Limiting Roomba charging port to 50%. Current usage: 3990 W
+Timestamp 1146: Limiting PlayStation 5 to 50%. Current usage: 3977 W
+Timestamp 1146: Turning Roomba charging port back to 100%. Current usage: 3997 W
+Timestamp 1147: Limiting Roomba charging port to 50%. Current usage: 4023 W
+Timestamp 1147: Limiting Living room TV to 50%. Current usage: 3923 W
+Timestamp 1147: Turning Roomba charging port back to 100%. Current usage: 3943 W
+Timestamp 1151: Turning Living room TV back to 100%. Current usage: 3957 W
+Timestamp 1152: Limiting Roomba charging port to 50%. Current usage: 3988 W
+Timestamp 1153: Turning Roomba charging port back to 100%. Current usage: 3999 W
+Timestamp 1155: Turning PlayStation 5 back to 100%. Current usage: 3942 W
+Timestamp 1160: Limiting Roomba charging port to 50%. Current usage: 3984 W
+Timestamp 1161: Limiting PlayStation 5 to 50%. Current usage: 3936 W
+Timestamp 1161: Turning Roomba charging port back to 100%. Current usage: 3956 W
+Timestamp 1165: Limiting Roomba charging port to 50%. Current usage: 4072 W
+Timestamp 1165: Limiting Living room TV to 50%. Current usage: 3972 W
+Timestamp 1165: Turning Roomba charging port back to 100%. Current usage: 3992 W
+Timestamp 1168: Limiting Roomba charging port to 50%. Current usage: 3992 W
+Timestamp 1170: Limiting Garden Lights to 50%. Current usage: 4015 W
+Timestamp 1170: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1170: Turning off Pool water pump. Current usage: 3715 W
+Timestamp 1170: Turning Garden Lights back to 100%. Current usage: 3790 W
+Timestamp 1170: Turning Living room TV back to 100%. Current usage: 3890 W
+Timestamp 1170: Turning PlayStation 5 back to 100%. Current usage: 3995 W
+Timestamp 1171: Turning Roomba charging port back to 100%. Current usage: 3942 W
+Timestamp 1180: Limiting Roomba charging port to 50%. Current usage: 3994 W
+Timestamp 1181: Turning Roomba charging port back to 100%. Current usage: 3920 W
+Timestamp 1190: Limiting Roomba charging port to 50%. Current usage: 3986 W
+Timestamp 1191: Turning Roomba charging port back to 100%. Current usage: 3995 W
+Timestamp 1192: Limiting Roomba charging port to 50%. Current usage: 4050 W
+Timestamp 1192: Limiting PlayStation 5 to 50%. Current usage: 3945 W
+Timestamp 1192: Turning Roomba charging port back to 100%. Current usage: 3965 W
+Timestamp 1194: Turning PlayStation 5 back to 100%. Current usage: 3982 W
+Timestamp 1197: Limiting Roomba charging port to 50%. Current usage: 3995 W
+Timestamp 1198: Turning Roomba charging port back to 100%. Current usage: 3989 W
+Timestamp 1199: Limiting Roomba charging port to 50%. Current usage: 3996 W
+Timestamp 1200: Turning Roomba charging port back to 100%. Current usage: 3947 W
+Timestamp 1206: Limiting Roomba charging port to 50%. Current usage: 3999 W
+Timestamp 1208: Limiting PlayStation 5 to 50%. Current usage: 3950 W
+Timestamp 1208: Turning Roomba charging port back to 100%. Current usage: 3970 W
+Timestamp 1209: Limiting Roomba charging port to 50%. Current usage: 4002 W
+Timestamp 1209: Limiting Living room TV to 50%. Current usage: 3902 W
+Timestamp 1209: Turning Roomba charging port back to 100%. Current usage: 3922 W
+Timestamp 1211: Turning Living room TV back to 100%. Current usage: 3938 W
+Timestamp 1216: Turning PlayStation 5 back to 100%. Current usage: 3958 W
+Timestamp 1218: Limiting Roomba charging port to 50%. Current usage: 4002 W
+Timestamp 1218: Limiting PlayStation 5 to 50%. Current usage: 3897 W
+Timestamp 1218: Turning Roomba charging port back to 100%. Current usage: 3917 W
+Timestamp 1222: Turning PlayStation 5 back to 100%. Current usage: 3943 W
+Timestamp 1239: Turning on Pool water pump at 50%. Current usage: 3936 W
+Timestamp 1242: Limiting Roomba charging port to 50%. Current usage: 4016 W
+Timestamp 1242: Limiting PlayStation 5 to 50%. Current usage: 3911 W
+Timestamp 1242: Turning Roomba charging port back to 100%. Current usage: 3931 W
+Timestamp 1243: Turning PlayStation 5 back to 100%. Current usage: 3984 W
+Timestamp 1255: Limiting Roomba charging port to 50%. Current usage: 4057 W
+Timestamp 1255: Limiting PlayStation 5 to 50%. Current usage: 3952 W
+Timestamp 1255: Turning Roomba charging port back to 100%. Current usage: 3972 W
+Timestamp 1256: Limiting Roomba charging port to 50%. Current usage: 3995 W
+Timestamp 1257: Turning Roomba charging port back to 100%. Current usage: 3952 W
+Timestamp 1258: Limiting Roomba charging port to 50%. Current usage: 4017 W
+Timestamp 1258: Limiting Living room TV to 50%. Current usage: 3917 W
+Timestamp 1258: Turning Roomba charging port back to 100%. Current usage: 3937 W
+Timestamp 1260: Turning Living room TV back to 100%. Current usage: 3980 W
+Timestamp 1262: Limiting Roomba charging port to 50%. Current usage: 3998 W
+Timestamp 1263: Limiting Living room TV to 50%. Current usage: 3954 W
+Timestamp 1263: Turning Roomba charging port back to 100%. Current usage: 3974 W
+Timestamp 1264: Limiting Roomba charging port to 50%. Current usage: 3988 W
+Timestamp 1265: Limiting Garden Lights to 50%. Current usage: 3972 W
+Timestamp 1265: Turning Roomba charging port back to 100%. Current usage: 3992 W
+Timestamp 1266: Limiting Roomba charging port to 50%. Current usage: 4008 W
+Timestamp 1266: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1266: Turning off Pool water pump. Current usage: 3708 W
+Timestamp 1266: Turning Garden Lights back to 100%. Current usage: 3783 W
+Timestamp 1266: Turning Living room TV back to 100%. Current usage: 3883 W
+Timestamp 1266: Turning PlayStation 5 back to 100%. Current usage: 3988 W
+Timestamp 1267: Turning Roomba charging port back to 100%. Current usage: 3932 W
+Timestamp 1277: Turning on Pool water pump at 50%. Current usage: 3987 W
+Timestamp 1278: Limiting Roomba charging port to 50%. Current usage: 3989 W
+Timestamp 1279: Limiting PlayStation 5 to 50%. Current usage: 3950 W
+Timestamp 1279: Turning Roomba charging port back to 100%. Current usage: 3970 W
+Timestamp 1284: Limiting Roomba charging port to 50%. Current usage: 4008 W
+Timestamp 1284: Limiting Living room TV to 50%. Current usage: 3908 W
+Timestamp 1284: Turning Roomba charging port back to 100%. Current usage: 3928 W
+Timestamp 1285: Turning Living room TV back to 100%. Current usage: 3944 W
+Timestamp 1286: Limiting Roomba charging port to 50%. Current usage: 4012 W
+Timestamp 1286: Limiting Living room TV to 50%. Current usage: 3912 W
+Timestamp 1286: Turning Roomba charging port back to 100%. Current usage: 3932 W
+Timestamp 1290: Turning Living room TV back to 100%. Current usage: 3991 W
+Timestamp 1291: Limiting Roomba charging port to 50%. Current usage: 3986 W
+Timestamp 1292: Turning Roomba charging port back to 100%. Current usage: 3937 W
+Timestamp 1295: Limiting Roomba charging port to 50%. Current usage: 4050 W
+Timestamp 1295: Limiting Living room TV to 50%. Current usage: 3950 W
+Timestamp 1295: Turning Roomba charging port back to 100%. Current usage: 3970 W
+Timestamp 1296: Limiting Roomba charging port to 50%. Current usage: 4025 W
+Timestamp 1296: Limiting Garden Lights to 50%. Current usage: 3950 W
+Timestamp 1296: Turning Roomba charging port back to 100%. Current usage: 3970 W
+Timestamp 1299: Limiting Roomba charging port to 50%. Current usage: 3996 W
+Timestamp 1300: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1300: Turning off Pool water pump. Current usage: 3709 W
+Timestamp 1300: Turning Garden Lights back to 100%. Current usage: 3784 W
+Timestamp 1300: Turning Living room TV back to 100%. Current usage: 3884 W
+Timestamp 1300: Turning PlayStation 5 back to 100%. Current usage: 3989 W
+Timestamp 1302: Limiting PlayStation 5 to 50%. Current usage: 3903 W
+Timestamp 1302: Turning Roomba charging port back to 100%. Current usage: 3923 W
+Timestamp 1306: Limiting Roomba charging port to 50%. Current usage: 4055 W
+Timestamp 1306: Limiting Living room TV to 50%. Current usage: 3955 W
+Timestamp 1306: Turning Roomba charging port back to 100%. Current usage: 3975 W
+Timestamp 1308: Turning Living room TV back to 100%. Current usage: 3976 W
+Timestamp 1311: Limiting Roomba charging port to 50%. Current usage: 4063 W
+Timestamp 1311: Limiting Living room TV to 50%. Current usage: 3963 W
+Timestamp 1311: Turning Roomba charging port back to 100%. Current usage: 3983 W
+Timestamp 1312: Limiting Roomba charging port to 50%. Current usage: 4033 W
+Timestamp 1312: Limiting Garden Lights to 50%. Current usage: 3958 W
+Timestamp 1312: Turning Roomba charging port back to 100%. Current usage: 3978 W
+Timestamp 1313: Limiting Roomba charging port to 50%. Current usage: 4016 W
+Timestamp 1313: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1313: Turning off Roomba charging port. Current usage: 3996 W
+Timestamp 1314: Turning Garden Lights back to 100%. Current usage: 3988 W
+Timestamp 1315: Limiting Garden Lights to 50%. Current usage: 3930 W
+Timestamp 1316: Turning on Roomba charging port. Current usage: 3975 W
+Timestamp 1317: Turning Roomba charging port back to 100%. Current usage: 3961 W
+Timestamp 1318: Limiting Roomba charging port to 50%. Current usage: 4002 W
+Timestamp 1318: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1318: Turning off PlayStation 5. Current usage: 3897 W
+Timestamp 1318: Turning Garden Lights back to 100%. Current usage: 3972 W
+Timestamp 1318: Turning Roomba charging port back to 100%. Current usage: 3992 W
+Timestamp 1322: Limiting Roomba charging port to 50%. Current usage: 4000 W
+Timestamp 1326: Turning Roomba charging port back to 100%. Current usage: 3922 W
+Timestamp 1331: Limiting Roomba charging port to 50%. Current usage: 4000 W
+Timestamp 1333: Turning Roomba charging port back to 100%. Current usage: 3953 W
+Timestamp 1334: Turning Living room TV back to 100%. Current usage: 4000 W
+Timestamp 1336: Turning on PlayStation 5 at 50%. Current usage: 3983 W
+Timestamp 1338: Limiting Roomba charging port to 50%. Current usage: 4036 W
+Timestamp 1338: Limiting Living room TV to 50%. Current usage: 3936 W
+Timestamp 1338: Turning Roomba charging port back to 100%. Current usage: 3956 W
+Timestamp 1344: Limiting Roomba charging port to 50%. Current usage: 3988 W
+Timestamp 1345: Limiting Garden Lights to 50%. Current usage: 3964 W
+Timestamp 1345: Turning Roomba charging port back to 100%. Current usage: 3984 W
+Timestamp 1347: Limiting Roomba charging port to 50%. Current usage: 4023 W
+Timestamp 1347: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1347: Turning off Roomba charging port. Current usage: 4003 W
+Timestamp 1347: Turning off PlayStation 5. Current usage: 3898 W
+Timestamp 1347: Turning Garden Lights back to 100%. Current usage: 3973 W
+Timestamp 1350: Turning on Roomba charging port at 50%. Current usage: 4000 W
+Timestamp 1351: Turning Roomba charging port back to 100%. Current usage: 3997 W
+Timestamp 1352: Limiting Roomba charging port to 50%. Current usage: 4000 W
+Timestamp 1356: Turning Roomba charging port back to 100%. Current usage: 3996 W
+Timestamp 1357: Limiting Roomba charging port to 50%. Current usage: 3995 W
+Timestamp 1359: Turning Living room TV back to 100%. Current usage: 3986 W
+Timestamp 1360: Limiting Living room TV to 50%. Current usage: 3942 W
+Timestamp 1360: Turning Roomba charging port back to 100%. Current usage: 3962 W
+Timestamp 1361: Limiting Roomba charging port to 50%. Current usage: 3996 W
+Timestamp 1363: Turning Roomba charging port back to 100%. Current usage: 3995 W
+Timestamp 1365: Limiting Roomba charging port to 50%. Current usage: 4000 W
+Timestamp 1367: Turning Roomba charging port back to 100%. Current usage: 3990 W
+Timestamp 1368: Limiting Roomba charging port to 50%. Current usage: 4000 W
+Timestamp 1372: Turning Roomba charging port back to 100%. Current usage: 3992 W
+Timestamp 1374: Turning Living room TV back to 100%. Current usage: 3990 W
+Timestamp 1375: Limiting Roomba charging port to 50%. Current usage: 4059 W
+Timestamp 1375: Limiting Living room TV to 50%. Current usage: 3959 W
+Timestamp 1375: Turning Roomba charging port back to 100%. Current usage: 3979 W
+Timestamp 1376: Turning Living room TV back to 100%. Current usage: 3999 W
+Timestamp 1378: Limiting Roomba charging port to 50%. Current usage: 3987 W
+Timestamp 1379: Turning Roomba charging port back to 100%. Current usage: 3939 W
+Timestamp 1380: Turning on PlayStation 5 at 50%. Current usage: 3983 W
+Timestamp 1381: Turning PlayStation 5 back to 100%. Current usage: 3996 W
+Timestamp 1385: Limiting Roomba charging port to 50%. Current usage: 3999 W
+Timestamp 1386: Turning Roomba charging port back to 100%. Current usage: 3952 W
+Timestamp 1387: Limiting Roomba charging port to 50%. Current usage: 4019 W
+Timestamp 1387: Limiting PlayStation 5 to 50%. Current usage: 3914 W
+Timestamp 1387: Turning Roomba charging port back to 100%. Current usage: 3934 W
+Timestamp 1388: Turning PlayStation 5 back to 100%. Current usage: 3947 W
+Timestamp 1393: Limiting Roomba charging port to 50%. Current usage: 4021 W
+Timestamp 1393: Limiting PlayStation 5 to 50%. Current usage: 3916 W
+Timestamp 1393: Turning Roomba charging port back to 100%. Current usage: 3936 W
+Timestamp 1395: Turning PlayStation 5 back to 100%. Current usage: 3935 W
+Timestamp 1409: Limiting Roomba charging port to 50%. Current usage: 4017 W
+Timestamp 1409: Limiting PlayStation 5 to 50%. Current usage: 3912 W
+Timestamp 1409: Turning Roomba charging port back to 100%. Current usage: 3932 W
+Timestamp 1410: Limiting Roomba charging port to 50%. Current usage: 4009 W
+Timestamp 1410: Limiting Living room TV to 50%. Current usage: 3909 W
+Timestamp 1410: Turning Roomba charging port back to 100%. Current usage: 3929 W
+Timestamp 1415: Turning Living room TV back to 100%. Current usage: 3981 W
+Timestamp 1417: Turning PlayStation 5 back to 100%. Current usage: 3993 W
+Timestamp 1418: Limiting Roomba charging port to 50%. Current usage: 4041 W
+Timestamp 1418: Limiting PlayStation 5 to 50%. Current usage: 3936 W
+Timestamp 1418: Turning Roomba charging port back to 100%. Current usage: 3956 W
+Timestamp 1419: Turning PlayStation 5 back to 100%. Current usage: 3987 W
+Timestamp 1421: Limiting Roomba charging port to 50%. Current usage: 4037 W
+Timestamp 1421: Limiting PlayStation 5 to 50%. Current usage: 3932 W
+Timestamp 1421: Turning Roomba charging port back to 100%. Current usage: 3952 W
+Timestamp 1431: Turning PlayStation 5 back to 100%. Current usage: 3990 W
+Timestamp 1441: Limiting Roomba charging port to 50%. Current usage: 4005 W
+Timestamp 1441: Limiting PlayStation 5 to 50%. Current usage: 3900 W
+Timestamp 1441: Turning Roomba charging port back to 100%. Current usage: 3920 W
+Timestamp 1442: Limiting Roomba charging port to 50%. Current usage: 3995 W
+Timestamp 1443: Turning Roomba charging port back to 100%. Current usage: 3992 W
+Timestamp 1444: Limiting Roomba charging port to 50%. Current usage: 4011 W
+Timestamp 1444: Limiting Living room TV to 50%. Current usage: 3911 W
+Timestamp 1444: Turning Roomba charging port back to 100%. Current usage: 3931 W
+Timestamp 1446: Turning Living room TV back to 100%. Current usage: 3921 W
+Timestamp 1448: Turning PlayStation 5 back to 100%. Current usage: 3989 W
+Timestamp 1463: Limiting Roomba charging port to 50%. Current usage: 4021 W
+Timestamp 1463: Limiting PlayStation 5 to 50%. Current usage: 3916 W
+Timestamp 1463: Turning Roomba charging port back to 100%. Current usage: 3936 W
+Timestamp 1466: Turning PlayStation 5 back to 100%. Current usage: 3995 W
+Timestamp 1468: Limiting Roomba charging port to 50%. Current usage: 4042 W
+Timestamp 1468: Limiting PlayStation 5 to 50%. Current usage: 3937 W
+Timestamp 1468: Turning Roomba charging port back to 100%. Current usage: 3957 W
+Timestamp 1469: Turning PlayStation 5 back to 100%. Current usage: 3970 W
+Timestamp 1470: Limiting Roomba charging port to 50%. Current usage: 4017 W
+Timestamp 1470: Limiting PlayStation 5 to 50%. Current usage: 3912 W
+Timestamp 1470: Turning Roomba charging port back to 100%. Current usage: 3932 W
+Timestamp 1471: Turning PlayStation 5 back to 100%. Current usage: 3968 W
+Timestamp 1483: Turning on Pool water pump at 50%. Current usage: 3947 W
+Timestamp 1488: Limiting Roomba charging port to 50%. Current usage: 4006 W
+Timestamp 1488: Limiting PlayStation 5 to 50%. Current usage: 3901 W
+Timestamp 1488: Turning Roomba charging port back to 100%. Current usage: 3921 W
+Timestamp 1489: Turning PlayStation 5 back to 100%. Current usage: 3949 W
+Timestamp 1502: Turning Pool water pump back to 100%. Current usage: 3974 W
+Timestamp 1506: Limiting Pool water pump to 50%. Current usage: 3703 W
+Timestamp 1507: Turning Pool water pump back to 100%. Current usage: 3972 W
+Timestamp 1508: Limiting Pool water pump to 50%. Current usage: 3752 W
+Timestamp 1510: Turning Pool water pump back to 100%. Current usage: 3978 W
+Timestamp 1511: Limiting Pool water pump to 50%. Current usage: 3754 W
+Timestamp 1512: Turning Pool water pump back to 100%. Current usage: 3961 W
+Timestamp 1513: Limiting Pool water pump to 50%. Current usage: 3702 W
+Timestamp 1514: Turning Pool water pump back to 100%. Current usage: 3968 W
+Timestamp 1515: Limiting Pool water pump to 50%. Current usage: 3766 W
+Timestamp 1536: Turning Pool water pump back to 100%. Current usage: 3996 W
+Timestamp 1538: Limiting Pool water pump to 50%. Current usage: 3742 W
+Timestamp 1541: Turning Pool water pump back to 100%. Current usage: 3969 W
+Timestamp 1542: Limiting Pool water pump to 50%. Current usage: 3709 W
+Timestamp 1548: Turning Pool water pump back to 100%. Current usage: 3957 W
+Timestamp 1561: Limiting Pool water pump to 50%. Current usage: 3711 W
+Timestamp 1563: Turning Pool water pump back to 100%. Current usage: 3997 W
+Timestamp 1564: Limiting Pool water pump to 50%. Current usage: 3708 W
+Timestamp 1565: Turning Pool water pump back to 100%. Current usage: 3970 W
+Timestamp 1583: Limiting Pool water pump to 50%. Current usage: 3709 W
+Timestamp 1585: Turning Pool water pump back to 100%. Current usage: 3986 W
+Timestamp 1587: Limiting Pool water pump to 50%. Current usage: 3710 W
+Timestamp 1588: Turning Pool water pump back to 100%. Current usage: 3968 W
+Timestamp 1589: Limiting Pool water pump to 50%. Current usage: 3727 W
+Timestamp 1590: Turning Pool water pump back to 100%. Current usage: 3928 W
+Timestamp 1602: Limiting Electric car charger to 50%. Current usage: 9683 W
+Timestamp 1602: Limiting Jacuzzi to 50%. Current usage: 8183 W
+Timestamp 1602: Limiting Pool water pump to 50%. Current usage: 7883 W
+Timestamp 1602: Limiting Roomba charging port to 50%. Current usage: 7863 W
+Timestamp 1602: Limiting Living room AC to 50%. Current usage: 6729 W
+Timestamp 1602: Limiting PlayStation 5 to 50%. Current usage: 6624 W
+Timestamp 1602: Limiting Living room TV to 50%. Current usage: 6524 W
+Timestamp 1602: Limiting Garden Lights to 50%. Current usage: 6449 W
+Timestamp 1602: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1602: Turning off Electric car charger. Current usage: 4649 W
+Timestamp 1602: Turning off Jacuzzi. Current usage: 3149 W
+Timestamp 1602: Turning on Washing machine. Current usage: 3949 W
+Timestamp 1602: Turning Roomba charging port back to 100%. Current usage: 3969 W
+Timestamp 1603: Turning Garden Lights back to 100%. Current usage: 3796 W
+Timestamp 1603: Turning Living room TV back to 100%. Current usage: 3896 W
+Timestamp 1604: Limiting Roomba charging port to 50%. Current usage: 4034 W
+Timestamp 1604: Limiting Living room TV to 50%. Current usage: 3934 W
+Timestamp 1604: Turning Roomba charging port back to 100%. Current usage: 3954 W
+Timestamp 1605: Turning Living room TV back to 100%. Current usage: 3970 W
+Timestamp 1606: Limiting Electric car charger to 50%. Current usage: 9724 W
+Timestamp 1606: Limiting Jacuzzi to 50%. Current usage: 8224 W
+Timestamp 1606: Limiting Pool water pump to 50%. Current usage: 7924 W
+Timestamp 1606: Limiting Roomba charging port to 50%. Current usage: 7904 W
+Timestamp 1606: Limiting Living room AC to 50%. Current usage: 6896 W
+Timestamp 1606: Limiting PlayStation 5 to 50%. Current usage: 6791 W
+Timestamp 1606: Limiting Living room TV to 50%. Current usage: 6691 W
+Timestamp 1606: Limiting Garden Lights to 50%. Current usage: 6616 W
+Timestamp 1606: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1606: Turning off Electric car charger. Current usage: 4816 W
+Timestamp 1606: Turning off Jacuzzi. Current usage: 3316 W
+Timestamp 1606: Turning Garden Lights back to 100%. Current usage: 3391 W
+Timestamp 1606: Turning Living room TV back to 100%. Current usage: 3491 W
+Timestamp 1606: Turning PlayStation 5 back to 100%. Current usage: 3596 W
+Timestamp 1606: Turning Roomba charging port back to 100%. Current usage: 3616 W
+Timestamp 1606: Turning Pool water pump back to 100%. Current usage: 3916 W
+Timestamp 1611: Turning on Bedroom AC at 50%. Current usage: 3977 W
+Timestamp 1612: Limiting Pool water pump to 50%. Current usage: 3876 W
+Timestamp 1613: Turning Pool water pump back to 100%. Current usage: 3773 W
+Timestamp 1619: Limiting Pool water pump to 50%. Current usage: 3756 W
+Timestamp 1621: Limiting Roomba charging port to 50%. Current usage: 4097 W
+Timestamp 1621: Limiting Bedroom AC to 50%. Current usage: 3551 W
+Timestamp 1621: Turning Roomba charging port back to 100%. Current usage: 3571 W
+Timestamp 1621: Turning Pool water pump back to 100%. Current usage: 3871 W
+Timestamp 1625: Limiting Pool water pump to 50%. Current usage: 3765 W
+Timestamp 1626: Limiting Roomba charging port to 50%. Current usage: 4210 W
+Timestamp 1626: Limiting PlayStation 5 to 50%. Current usage: 4105 W
+Timestamp 1626: Limiting Living room TV to 50%. Current usage: 4005 W
+Timestamp 1626: Limiting Garden Lights to 50%. Current usage: 3930 W
+Timestamp 1626: Turning Roomba charging port back to 100%. Current usage: 3950 W
+Timestamp 1627: Turning Garden Lights back to 100%. Current usage: 3963 W
+Timestamp 1628: Limiting Roomba charging port to 50%. Current usage: 4297 W
+Timestamp 1628: Limiting Bedroom AC to 50%. Current usage: 4073 W
+Timestamp 1628: Limiting Garden Lights to 50%. Current usage: 3998 W
+Timestamp 1629: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1629: Turning off Pool water pump. Current usage: 3908 W
+Timestamp 1629: Turning Garden Lights back to 100%. Current usage: 3983 W
+Timestamp 1630: Limiting Bedroom AC to 50%. Current usage: 4437 W
+Timestamp 1630: Limiting Garden Lights to 50%. Current usage: 4362 W
+Timestamp 1630: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1630: Turning off Roomba charging port. Current usage: 4342 W
+Timestamp 1630: Turning off Living room AC. Current usage: 3568 W
+Timestamp 1630: Turning Garden Lights back to 100%. Current usage: 3643 W
+Timestamp 1630: Turning Living room TV back to 100%. Current usage: 3743 W
+Timestamp 1630: Turning PlayStation 5 back to 100%. Current usage: 3848 W
+Timestamp 1632: Turning on Pool water pump at 50%. Current usage: 3890 W
+Timestamp 1633: Turning on Roomba charging port. Current usage: 3629 W
+Timestamp 1633: Turning Pool water pump back to 100%. Current usage: 3929 W
+Timestamp 1634: Turning Roomba charging port back to 100%. Current usage: 3903 W
+Timestamp 1635: Limiting Pool water pump to 50%. Current usage: 3765 W
+Timestamp 1636: Turning Pool water pump back to 100%. Current usage: 3746 W
+Timestamp 1654: Turning on Washing machine. Current usage: 3976 W
+Timestamp 1656: Limiting Pool water pump to 50%. Current usage: 3701 W
+Timestamp 1657: Turning Pool water pump back to 100%. Current usage: 3845 W
+Timestamp 1664: Turning on Microwave. Current usage: 3995 W
+Timestamp 1666: Limiting Pool water pump to 50%. Current usage: 3937 W
+Timestamp 1667: Limiting Roomba charging port to 50%. Current usage: 4074 W
+Timestamp 1667: Limiting PlayStation 5 to 50%. Current usage: 3969 W
+Timestamp 1667: Turning Roomba charging port back to 100%. Current usage: 3989 W
+Timestamp 1668: Limiting Roomba charging port to 50%. Current usage: 4276 W
+Timestamp 1668: Limiting Living room TV to 50%. Current usage: 4176 W
+Timestamp 1668: Limiting Garden Lights to 50%. Current usage: 4101 W
+Timestamp 1668: Over limit! Performing emergency shutdown of low priority systems.
+Timestamp 1668: Turning off Pool water pump. Current usage: 3801 W
+Timestamp 1668: Turning Garden Lights back to 100%. Current usage: 3876 W
+Timestamp 1668: Turning Living room TV back to 100%. Current usage: 3976 W
+Timestamp 1668: Turning Roomba charging port back to 100%. Current usage: 3996 W
+Timestamp 1669: Limiting Roomba charging port to 50%. Current usage: 4116 W
+Timestamp 1669: Limiting Living room TV to 50%. Current usage: 4016 W
+Timestamp 1669: Limiting Garden Lights to 50%. Current usage: 3941 W
+Timestamp 1669: Turning Roomba charging port back to 100%. Current usage: 3961 W
+Timestamp 1670: Turning Garden Lights back to 100%. Current usage: 3780 W
+Timestamp 1670: Turning Living room TV back to 100%. Current usage: 3880 W
+Timestamp 1670: Turning PlayStation 5 back to 100%. Current usage: 3985 W

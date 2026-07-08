@@ -1,0 +1,118 @@
+:root {
+    color-scheme: light;
+    --bg: #f4f7fb;
+    --panel: #ffffff;
+    --panel-soft: #f8fafc;
+    --border: #dce5ee;
+    --text: #203041;
+    --muted: #64748b;
+    --accent: #4f46e5;
+    --accent-strong: #4338ca;
+    --shadow: 0 12px 35px rgba(15, 23, 42, 0.08);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    background: linear-gradient(135deg, #eef4ff 0%, var(--bg) 100%);
+    color: var(--text);
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
+
+#root {
+    width: min(100%, 960px);
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    box-shadow: var(--shadow);
+    padding: 28px;
+}
+
+.input-area {
+    display: grid;
+    gap: 12px;
+    padding: 20px;
+    margin-bottom: 24px;
+    background: var(--panel-soft);
+    border: 1px solid var(--border);
+    border-radius: 18px;
+}
+
+.input-header {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.name-input,
+.base-power-input,
+.priority-input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-size: 0.95rem;
+    background: #fff;
+    color: var(--text);
+}
+
+.name-input:focus,
+.base-power-input:focus,
+.priority-input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.16);
+}
+
+.starting-state-label {
+    display: block;
+    font-size: 0.95rem;
+    color: var(--muted);
+    margin: 4px 0 8px;
+}
+
+.starting-state-input {
+    accent-color: var(--accent);
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+.starting-state-label-on,
+.starting-state-label-off {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-right: 16px;
+    color: var(--text);
+    font-size: 0.95rem;
+    vertical-align: middle;
+}
+
+.add-button {
+    width: fit-content;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 999px;
+    background: var(--accent);
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.add-button:hover {
+    background: var(--accent-strong);
+    transform: translateY(-1px);
+}
+
+.chart {
+    width: 100%;
+    max-height: 420px;
+}
