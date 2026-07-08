@@ -40,9 +40,11 @@ function createGamesList(tag, includeRoles = false){
 }
 
 async function handleClick(event){
-    console.log(event.target)
-    if (event.target.dataset.index){
-        currentIndex = Number(event.target.dataset.index);
+    const listItem = event.target.closest("li");
+    console.log(listItem)
+    if (!listItem) return
+    if (listItem.dataset.index){
+        currentIndex = Number(listItem.dataset.index);
         populateGameDetails(await fetchData(`/api/games/title/${encodeURIComponent(data.games[currentIndex])}`));
         if (location.pathname === "/games") history.pushState({},"",`/games/${encodeURIComponent(data.games[currentIndex])}`);
         document.getElementById("modal").style.display = "flex";

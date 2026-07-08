@@ -27,10 +27,12 @@ function createStudiosList(){
 }
 
 function handleStudioClick(event){
-    if (event.target.dataset.index){
-        const currentStudio = event.target.closest("ul").previousElementSibling.innerText;
+    const listItem = event.target.closest("li");
+    if (!listItem) return
+    if (listItem.dataset.index){
+        const currentStudio = listItem.closest("ul").previousElementSibling.innerText;
         toggleStudioActive(currentStudio);
-        history.pushState({},"",`/studios/${encodeURIComponent(currentStudio)}/${encodeURIComponent(event.target.innerText.split (" -")[0])}`);
+        history.pushState({},"",`/studios/${encodeURIComponent(currentStudio)}/${encodeURIComponent(listItem.innerText.split (" -")[0])}`);
         data.games = studios.find(studio => getStudioFromRaw(studio.studioName) === currentStudio).games.map(game => game.title);
         handleClick(event)
     }
