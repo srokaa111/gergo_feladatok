@@ -135,7 +135,7 @@ body {
 
 .products-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, 240px);
     gap: 18px;
     overflow-y: auto;
     margin-top: 70px;
