@@ -41,7 +41,6 @@ function createGamesList(tag, includeRoles = false){
 
 async function handleClick(event){
     const listItem = event.target.closest("li");
-    console.log(listItem)
     if (!listItem) return
     if (listItem.dataset.index){
         currentIndex = Number(listItem.dataset.index);
