@@ -15,7 +15,6 @@ app.use(express.static(path.join(__dirname, ".." ,"client")));
 
 function addCargoToFlights(cargoData, flights){
     cargoData.price = flights.reduce((totalPrice, flight) => flight.pricePerKg * cargoData.weight, 0);
-    console.log(data.packages.at(-1))
     cargoData.trackingNumber = data.packages.length ? `TRK-${String(Number(data.packages.at(-1).trackingNumber.split('-')[1]) + 1).padStart(4,'0')}` : "TRK-0001";
     if (cargoData.dangerous) cargoData.price *= 1 + DANGEROUS_CARGO_SURCHARGE;
     data.packages.push({...cargoData, flights:flights.map(flight => flight.flightNumber)});
@@ -45,16 +44,16 @@ function findCargoFlights(cargoData, clientIP){
         return {code: 200, trackingNumber:trackingNumber};
     }
     else{
-        const flights = findShortestPath(cargoData);
+        const flights = findCheapestPath(cargoData);
         if (flights){
             const trackingNumber = addCargoToFlights(cargoData, flights);
             return {code: 200, trackingNumber:trackingNumber};
         }
     }
-        return {code: 422}
+    return {code: 422}
 }
 
-function findShortestPath(cargoData){
+function findCheapestPath(cargoData){
     const startNode = cargoData.source;
     const endNode = cargoData.destination;
     const possibleFlights = data.active_flights.filter(flight => flight.status === "Loading" && 
@@ -79,11 +78,13 @@ function findShortestPath(cargoData){
     */
     if (!pathWeights[startNode]) return false;
     const totalPricePerKgToNode = [];
+
+    //[{node:"BUD", totalPrice:15}]
     const previousNode = {};
     for (let node in pathWeights) node === startNode ? totalPricePerKgToNode.push({node: node, totalPrice: 0}) : totalPricePerKgToNode.push({node: node, totalPrice: Infinity});
     if (!totalPricePerKgToNode.map(element => element.node).includes(endNode)) totalPricePerKgToNode.push({node: endNode, totalPrice: Infinity})
     let node = startNode;
-    while (node !== endNode){
+    while (node !== endNode){  //Dijkstra algoritmus
         const priceToNode = totalPricePerKgToNode.splice(totalPricePerKgToNode.findIndex(element => element.node === node), 1)[0].totalPrice;
         for (let destination in pathWeights[node]){
             const nodeInTotalPrice = totalPricePerKgToNode.find(element => element.node === destination);
